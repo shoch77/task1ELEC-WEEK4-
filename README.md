@@ -1,6 +1,6 @@
 # task1ELEC-WEEK4-
 
-This project involves creating a robotic mouth using an 8x32 LED matrix. The mouth can display different facial expressions such as happy, neutral, and sad.
+This project involves designing a robotic mouth using an 8x32 LED matrix. The mouth can display different facial expressions such as happy, neutral, and sad.
 
 - Fully simulated on: https://wokwi.com/projects/405803428359855105
 
