@@ -1,3 +1,4 @@
+```cpp
 #include <LedControl.h>
 
 // Pin connections: DIN, CLK, CS
