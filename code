@@ -1,4 +1,4 @@
-```cpp
+```bash
 #include <LedControl.h>
 
 // Pin connections: DIN, CLK, CS
@@ -70,3 +70,4 @@ void displayMouth(byte mouth[8][4]) {
     }
   }
 }
+```
